@@ -23,7 +23,7 @@ In this code-night we will be using [SST](https://sst.dev/) which is a great fra
 
 You need to download and install
 
- - Node
+ - [Node.js](https://nodejs.org/en/download/)
 
 And create a free-tier Amazon Web Services (AWS) account, as well an an AWS CLI locally on your computer.
 

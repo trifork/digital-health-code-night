@@ -44,6 +44,28 @@ There are several open and free APIs available for getting health care data
 
 https://github.com/public-apis/public-apis#health
 
+## Challenges
+
+We will describe the coding challenges that you will start with and work on at the code-night.
+
+The first challenge is to download and install the prerequisites. 
+
+Next, start the tutorial in the SST start-up guide in order to get a simple application up and running.
+
+Implement a REST service that can get data from one of the open and free APIs for health care data, and choose which API you want to use.
+
+Implement a front-end application in SST where you can show and display the health care data directly. 
+You can choose to use time and energy on the design and the user experience of the app. 
+
+Or you can focus more on implementing the back-end service, that stores data in a simple database (again by using the SST framework).
+
+You can also choose to manipulate the health care data that you get from the REST API.
+
+Be sure to document your project, what is does and what it shows, and how to run it, in the README file of your personal Github repo.
+
+## Follow up and future work
+
+TBD
 
 
 

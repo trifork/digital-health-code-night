@@ -58,6 +58,8 @@ In the `src` folder in this Github repository, there is an example of how to use
 
 ## Challenges
 
+TODO!!! In the `src` folder there will be example code snippets of some of the challenges described in the following, but you can also start from scratch and create applications by yourself and connect to an API of your choice:
+
 We will describe the coding challenges that you will start with and work on during this code-night. You will probably not have enough time to work on all challenges described here, but there is plenty of content in the guides to continue at home and finish the projects you have started at the code-night.
 
 1. The first part of the code-night is to download and install the prerequisites, if you have not done that prior to the code-night. 
@@ -74,10 +76,6 @@ You can choose to use time and energy on the design and the user experience of t
 6. You can also choose to manipulate the health care data that you get from the REST API.
 
 7. Be sure to document your project, what is does and what it shows, and how to run it, in the README file of your personal Github repo.
-
-## Follow up and future work
-
-TBD
 
 
 

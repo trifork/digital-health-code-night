@@ -54,7 +54,6 @@ The list of public APIs can be seen here:
 
 https://github.com/public-apis/public-apis#health
 
-In the `challenge` folder in this Github repository, there is an example of how to use a REST based API for getting health care data into your Go application.
 
 ## Challenges
 

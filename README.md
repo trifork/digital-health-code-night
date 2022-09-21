@@ -66,7 +66,7 @@ We will describe the coding challenges that you will start with and work on duri
 
 2. Next, start the tutorial in the SST start-up guide in order to get a simple application up and running in AWS.
 
-3. Look at the examples in the [SST examples page](https://sst.dev/examples/). Implement a REST service that can get data from one of the open and free APIs for health care data, and choose which API you want to use. 
+3. Look at the examples in the [SST examples page](https://sst.dev/examples/). Implement a REST service that can get data from one of the open and free APIs for health care data, and choose which API you want to use. For example this API: https://github.com/M-Media-Group/Covid-19-API
 
 4. Work on a front-end application in SST where you can show and display the health care data. 
 You can choose to use time and energy on the design and the user experience of the app. 

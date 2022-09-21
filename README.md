@@ -44,7 +44,7 @@ You can use the programming languages of your choice in your project, since the 
  - Go
  - Typescript
  - Python
- - ...
+ - C#
 
 ## Open APIs for health care data
 
@@ -54,11 +54,11 @@ The list of public APIs can be seen here:
 
 https://github.com/public-apis/public-apis#health
 
-In the `src` folder in this Github repository, there is an example of how to use a REST based API for getting health care data in your application.
+In the `challenge` folder in this Github repository, there is an example of how to use a REST based API for getting health care data into your Go application.
 
 ## Challenges
 
-TODO!!! In the `src` folder there will be example code snippets of some of the challenges described in the following, but you can also start from scratch and create applications by yourself and connect to an API of your choice:
+You can get inspired by the challenges described in the following, but you can also start from scratch and create applications yourself and connect to an API of your choice.
 
 We will describe the coding challenges that you will start with and work on during this code-night. You will probably not have enough time to work on all challenges described here, but there is plenty of content in the guides to continue at home and finish the projects you have started at the code-night.
 
@@ -66,16 +66,14 @@ We will describe the coding challenges that you will start with and work on duri
 
 2. Next, start the tutorial in the SST start-up guide in order to get a simple application up and running in AWS.
 
-3. Implement a REST service that can get data from one of the open and free APIs for health care data, and choose which API you want to use.
+3. Look at the examples in the [SST examples page](https://sst.dev/examples/). Implement a REST service that can get data from one of the open and free APIs for health care data, and choose which API you want to use. 
 
-4. Implement a front-end application in SST where you can show and display the health care data directly. 
+4. Work on a front-end application in SST where you can show and display the health care data. 
 You can choose to use time and energy on the design and the user experience of the app. 
 
 5. Focus more on implementing the back-end service, that stores data in a simple database (again by using the SST framework).
 
-6. You can also choose to manipulate the health care data that you get from the REST API.
-
-7. Be sure to document your project, what is does and what it shows, and how to run it, in the README file of your personal Github repo.
+6. Be sure to document your project, what is does and what it shows, and how to run it, in the README file of your personal Github repo.
 
 
 
